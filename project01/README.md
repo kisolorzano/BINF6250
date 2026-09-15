@@ -41,7 +41,9 @@ Pseudocode Steps
 ```
 
 # Successes
-Description of the team's learning points
+Asynchronous Version Control (GitHub PR Workflow): The team executed a professional GitHub collaboration model. 
+We built a structural baseline code with TODO blocks, allow other members to review, push executable code concurrently and then merge. 
+We created, peer reviewed, offered correction and aligned pseudocode with our functional code. 
 
 # Struggles
 Description of the stumbling blocks the team experienced
@@ -50,8 +52,8 @@ Description of the stumbling blocks the team experienced
 ## Group Leader
 Group leader's reflection on the project
 
-## Other member
-Other members' reflections on the project
+## Other member: Trang Do 
+I found the exposure to GitHub and collaborative workflows highly valuable. While the technical coding aspect of the assignment was straightforward, the real takeaway was learning how to code concurrently and integrate our changes seamlessly. For this project, I found it helpful to work asynchronously—understanding the project on our own time—and then meet to peer-review our work and navigate GitHub together. In the future, I anticipate encountering projects where live coding and real-time feedback are necessary, and I look forward to practicing that as well. My goal is to become well-versed in different collaboration styles and learn as much from them as possible.
 
 # Generative AI Appendix
-As per the syllabus
+Used Claude AI to navigate Git architecture and code review. 
