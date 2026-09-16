@@ -45,7 +45,7 @@ We built a structural baseline code with TODO blocks, allow other members to rev
 We created, peer reviewed, offered correction and aligned pseudocode with our functional code. 
 
 # Struggles
-A struggle we faced was utilizing Github, it was a learning curve on how to the project was set up correctly, merging files together and viewing certain pull requests. 
+Github: As novel Github users, navigating the platform and learning all of its capabilities. We had trouble in the beginning on learning how to merge branches and commit changes. As the course continues on, we will probably endure some additional struggles, but this will be a learning experience. 
 
 # Personal Reflections
 ## Group Leader: Kailey Solorzano
@@ -57,4 +57,4 @@ Throughout this process, I gained insight into how teams can work concurrently w
 I found the exposure to GitHub and collaborative workflows highly valuable. While the technical coding aspect of the assignment was straightforward, the real takeaway was learning how to code concurrently and integrate our changes seamlessly. For this project, I found it helpful to work asynchronously—understanding the project on our own time—and then meet to peer-review our work and navigate GitHub together. In the future, I anticipate encountering projects where live coding and real-time feedback are necessary, and I look forward to practicing that as well. My goal is to become well-versed in different collaboration styles and learn as much from them as possible.
 
 # Generative AI Appendix
-Used Claude AI (Sonner 5) to navigate GitHub architecture, code review, and polish language. 
+Used Claude AI (Sonnet 5) to navigate GitHub architecture, code review, and polish language. 
