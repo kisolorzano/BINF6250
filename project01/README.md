@@ -39,7 +39,11 @@ Pseudocode Steps
   e.	Print the dictionary containing the disease names and the number of times they show up.
 
 ```
-
+# Output / Results 
+The output to the console is as follows: 
+```
+*insert output here*
+```
 # Successes
 Asynchronous Version Control (GitHub PR Workflow): The team executed a professional GitHub collaboration model. 
 We built a structural baseline code with TODO blocks, allowing other members to review, push executable code concurrently, and then merge. 
