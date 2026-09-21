@@ -24,7 +24,7 @@ Pseudocode Steps
   b.	Convert the string data to a float and check if the rare variant has a number < 0.0001
     i.	If the number is < 0.0001, check for CLNDN key; if missing, return an empty list. If it exists, do the following:
       (1) Separate the diseases into a list by the pipe (|) 
-      (2) Add diseases that are not "not specified" or "not provided" to the ongoing list of valid diseases
+      (2) Omit the diseases that are listed as "not specified" or "not provided" to the ongoing list of valid diseases
       (3) Return the list of valid diseases
     ii. If the number is >= 0.0001, return an empty list
 7)	Create a read_file() function to read the VCF source file line by line and count the occurrences of rare diseases using the parse_line() function previously created. This function does the following:
