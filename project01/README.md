@@ -66,4 +66,12 @@ I found this project to be a good introduction to using GitHub for collaborating
 I am looking forward to live coding with future groups as the algorithms become more challenging, since working with a group can allow us to build on each other's ideas and learn more deeply. Overall, this process allowed me to learn how to better work with a team and communicate effectively, especially across different time zones and remotely, to create a strategy, adapt it when necessary, and still practice writing code independently.
 
 # Generative AI Appendix
-Used Claude AI (Sonnet 5) to navigate GitHub architecture, code review, and polish language. 
+Anthropic. (2026). Claude (Sonnet 5) [Large language model]. https://www.anthropic.com/claude 
+
+Kailey: 
+Prompt- Find any repetitive or confusion language in the pseudocode. 
+Explanation- to use as a feedback tool to determine if there are any ambiguous phrases written in the pseudocode
+Prompt- Polish the language in my Personal Reflection. 
+Explanation- to create a stronger sounding reflection that encompasses my experience for Project 01
+
+Used Claude AI (Sonnet 5) to navigate GitHub architecture and code review. 
