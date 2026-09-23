@@ -40,17 +40,17 @@ def generate_random_text():
 ```
 
 # Successes
-Concept Comprehension: I was able to comprehend the project at hand and develop pseudocode as a foundation for my concrete code. I have provided a state diagram of the text "One Fish, Two Fish, Red Fish, Blue Fish". I attempted to emulate a state diagram for the Shakespearean sonnets, but came to realize quick that this would be to complex. 
+*Concept Comprehension*: I was able to comprehend the project at hand and develop pseudocode as a foundation for my concrete code. I have provided a state diagram of the text "One Fish, Two Fish, Red Fish, Blue Fish". I attempted to emulate a state diagram for the Shakespearean sonnets, but came to realize quick that this would be to complex. 
 
-Creation of Pseudocode: The pseudocode was tough to create despite the template given. I broke it down by function and tried to integrate coding language with the concepts. 
+*Creation of Pseudocode*: The pseudocode was tough to create despite the template given. I broke it down by function and tried to integrate coding language with the concepts. 
 
 
 # Struggles
-Independent Work: During the Add/Drop period, both of my initial group mates dropped the course. This led to challenges in logistics and expectations of my involvement of the project. Completing this project as an individual created a struggle in time management.  
+*Independent Work*: During the Add/Drop period, both of my initial group mates dropped the course. This led to challenges in logistics and expectations of my involvement of the project. Completing this project as an individual created a struggle in time management.  
 
-Completion of Project: The current project remains incomplete and does require future revisions. Completing the project is a current struggle as I try to navigate generating the code.  
+*Completion of Project*: The current project remains incomplete and does require future revisions. Completing the project is a current struggle as I try to navigate generating the code.  
 
-Generating Code: My background is not in coding and my experience stems from the coding courses provided from this program. I think part of me was ambitious to try and take on sonnets as well as they have complex criteria, from deciphering old English language, a rhyming scheme and a specific format. Also, this is my first time using Jupyter Notebooks, which posed as an initial challenge.  
+*Generating Code*: My background is not in coding and my experience stems from the coding courses provided from this program. I think part of me was ambitious to try and take on sonnets as well as they have complex criteria, from deciphering old English language, a rhyming scheme and a specific format. Also, this is my first time using Jupyter Notebooks, which posed as an initial challenge.  
 
 
 # Personal Reflections
