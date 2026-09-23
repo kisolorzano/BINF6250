@@ -60,4 +60,9 @@ The overall project was difficult to complete as an individual. The unfortunate 
 I am open to all feedback within the peer review process as I have mentioned that this project is incomplete. After meeting with the Professor, I was reassured about the expectations of what I am required to turn in. I believe given the time frame and the circumstances, I was able to make a significant amount of progress. Moving forward, I hope to improve my communication about my involvement in the project and improve my technical coding skills in Python. 
 
 # Generative AI Appendix
-As per the syllabus
+Anthropic. (2026). Claude (Opus 5) [Large language model]. https://www.anthropic.com/claude 
+
+Prompt: What does np.random.choice do? 
+
+
+Explanation: Used to clarify the function and how to utilize it in the function. 
