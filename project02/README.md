@@ -1,5 +1,5 @@
 # Introduction
-Markov Chains are multiple series of states that transition between one another. Each Markov chain is dependent on the _Markov Property_ in that the sequential states is not dependent on the previous state and a probabilisitic prediction is made to predict the next state. 
+Markov Chains are multiple series of states that transition between one another. Each Markov chain is dependent on the _Markov Property_ in that the sequential states is dependent on the current state and a probabilisitic prediction is made to predict the next state. The previous states do not affect the next state, hence the term memorylessness. 
 
 This code, written using Jupyter Notebooks breaks down modeling Markov Chains with Seussian text. The ```build_markov_model``` function constructs the Markov model and displays the nth order. The ```get_next_word```  and ```generate_random_text``` functions calculate the conditional property that will predict the next word (state) from the text to create a string of words. Following these functions, we begin with sample text from Dr. Seuss's book "One Fish, Two Fish, Red Fish, Blue Fish." If there are no errors with the code, we proceed with running the entirety of the book. To further train the Markov model, I used all of Shakespearean sonnets to analyze.   
 
@@ -43,6 +43,8 @@ def generate_random_text():
 *Concept Comprehension*: I was able to comprehend the project at hand and develop pseudocode as a foundation for my concrete code. I have provided a state diagram of the text "One Fish, Two Fish, Red Fish, Blue Fish". I attempted to emulate a state diagram for the Shakespearean sonnets, but came to realize quick that this would be to complex. 
 
 *Creation of Pseudocode*: The pseudocode was tough to create despite the template given. I broke it down by function and tried to integrate coding language with the concepts. 
+
+*Completion of 3 of 4 Functions*: With the time given and the support given, I was able to successfully produce an output for 3 of the functions. The coding did require a bit of work and thinking, but I am happy I stuck through it and was able to complete a majority of it. 
 
 
 # Struggles
