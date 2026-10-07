@@ -1,12 +1,17 @@
-__Project Title__
-A concise project title.
+__Profiling HMMs for Antibiotic Resistance__
 
 ---
 
 __Research Question__
-A concise and succinct description of the question you want to explore.
-Why this research question matters and how the results may be innovative.
-Algorithm and Algorithm Class
+Description: Antibiotic resistance is a prevalent issue within Public Health due to physician overuse of prescriptions, stopping a treatment when a patient "feels better" and within our agricultural practices. 
+
+Reasoning: Antibiotic resistance is a persistent issue within public health and causes vast effects to the human population. The results may not be innovative in the fact that this will provide a new discovery, but will be innovative in the fact that we are reproducing existing results. 
+
+Algorithm Class: Hidden Markov Models 
+
+Algorithm: Profile-HMMs 
+
+
 The algorithm’s broader class or module context (e.g., dynamic programming, graph algorithms, Markov chains, HMMs, combinatorial algorithms).
 The algorithm you intend to implement.
 A brief justification of why this algorithm class is a good fit for your question.
