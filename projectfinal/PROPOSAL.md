@@ -1,5 +1,8 @@
 __Project Title__
 A concise project title.
+
+---
+
 __Research Question__
 A concise and succinct description of the question you want to explore.
 Why this research question matters and how the results may be innovative.
@@ -7,6 +10,7 @@ Algorithm and Algorithm Class
 The algorithm’s broader class or module context (e.g., dynamic programming, graph algorithms, Markov chains, HMMs, combinatorial algorithms).
 The algorithm you intend to implement.
 A brief justification of why this algorithm class is a good fit for your question.
+
 __Data Plan__
 A description of the data you plan to use:
 Source(s) (e.g., public database, paper supplement, synthetic data you will generate).
@@ -15,10 +19,12 @@ Licensing or access considerations (if applicable).
 A brief “prototype data” plan:
 What minimal dataset you will use early on for testing and debugging.
 How this prototype relates to your ultimate, more realistic dataset.
+
 __Success Criteria__
 Define what “success” looks like for your project:
 Expected outputs.
 At least one way you will check whether your result is reasonable (e.g., comparison to a standard tool, known small example, known motif, or simulated ground truth).
+
 __Pitfall Scan__
 Identify at least three
 Data-related issues (e.g., noisy or biased data, missing annotations).
