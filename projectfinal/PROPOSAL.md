@@ -129,3 +129,5 @@ The reasonable result will be in comparison to the paper supplements who perform
 
 
 ## __Generative AI Disclosure__
+
+This proposal came from original thought. No AI was used at this time. 
