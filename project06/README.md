@@ -41,7 +41,7 @@ Anthropic, Sonnet 5.5. 2026. Claude [Large language model]. https://claude.ai
 
 Usage by Kailey: 
 
-Input: 
+Input: How does the output of a Smith-Waterman algorithm be made into the input for the Neighbor Joining Algorithm? 
 
 Output:
 
