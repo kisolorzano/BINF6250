@@ -198,6 +198,8 @@ This one is interesting because it uses R rather than Python to emulate the neig
 
 * *Building the Distance Matrix from Alignment Scores*- This stage was both successful and challenging. We encountered conflicting information when determining how to compute distances and construct the matrix. Both Jukes-Cantor and K2P have distinct strengths and limitations, yet we opted for a 1 - Smith-Waterman normalization approach. Given more time, we would like to revisit this topic to better evaluate the criteria for selecting one model over the other.
 
+*  *Time*- Time escaped so fast from this project. If we had additional time, the test cases that we used between functions would have been included. There would also be a better comprehension of the algorithm so it would not take us half the time before we started the project. 
+
 # Personal Reflections
 ## Group Leader- Kailey 
 
