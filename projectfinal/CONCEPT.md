@@ -277,7 +277,51 @@ Possible Solutions for Improving Performance
 
 ## Validation and Testing Plan 
 
+**Hand-crafted Example:** 
+
+Input Patterns: ACT, CAT, CTG, TGA 
+
+Test Genome: ACTGACTGA
+
+Expected Output: 
+* "ACT found at positions 0 + 4"
+* "CTG found at positions 1 + 5"
+* "CAT is not found"
+* "TGA found at positions 2 + 6"
+
+Validation Reasoning: 
+1) Tests the trie
+2) Tests the failure links (if they are connected to the correct nodes)
+3) Tests for overlaps and multiple patterns can be reported
+
+**Edge Case Example:**
+
+Input Patterns: [ ] 
+
+Test Genome: ACTGACTGA
+
+Expected Output: 
+* "No matches found"
+
+Validation Reasoning: 
+1) Check for empty arguments
+2) Tests for errors or inconsistences
+
+**Real Data:**
+
+Input Patterns: example of a known resistance gene like mecA 
+
+Test Genome: bacterial reference genome 
+
+Expected output: 
+* Location and identity of resistant gene
+
+Validation Reasoning: 
+1) Tests on a smaller scale before the larger input 
+
 ## Updated Pitfall and Risk Log 
+
+
 
 ## Justification
 
