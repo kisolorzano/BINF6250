@@ -321,21 +321,49 @@ Validation Reasoning:
 
 ## Updated Pitfall and Risk Log 
 
+**Data-Related Issues**
 
+1. Redundancy of Datasets
+* The CARD database will have highly similar variants of resistant genes
+* Consequence: Larger tries, increased memory, nearly identical matches
+* Strategy: Remove exact duplicates, track gene families rather than individuals
 
-## Justification
+2. Annotation Errors
+* The CARD database may have partial genes, fragmented sequences, mislabeling
+* Consequence: Aho-Corasick algorithm will produce an incorrect output
+* Strategy: Remove short or fragmented sequences, validate with another database
+
+**Algorithmic-Related Issues**
+
+1) Exact Match Sensitivity 
+* The algorithm requires an exact 100% match
+* Consequences: Any indels or SNPs and a match can be missed
+* Strategy: Disclose the caveat in full transparency
+
+2) Memory Consumption
+* Can create a large trie
+* Consequences: Running out of storage
+* Strategy: Restrict analysis to one AMR family (e.g. beta-lactamase)
+
+**Evaluation Issues**
+
+1) Gene Detection vs Resistance Phenotype
+* Detection of a resistance gene does not equal antibiotic resistance phenotype
+* Consequence: Will obscure the evaluation of the data
+* Strategy: Disclose the caveat in full transparency
+
+2) Comparison to Pairwise alignment
+* Detection of exact sequences
+* Strategy: Introduce mutations and compare with algorithms such as Smith-Waterman
 
 ## Unknown Terms -> Dictionary / Resources 
 _Use if needed, I will personally be referring back to these so I have left them here_
 
-* Aho-Corasick Algorithm
-* Breadth-First Search
-* Queue / Enqueue in Python 
+* Aho-Corasick Algorithm: https://www.youtube.com/watch?v=XWujo7KQL54&t=632s 
+* Breadth-First Search: https://www.codecademy.com/article/breadth-first-search-bfs-algorithm
+* Queue / Enqueue in Python: https://medium.com/analytics-vidhya/queue-deque-overview-and-its-implementation-in-python-c36c56b532b8
 
 ## Generative AI Disclosure
+Used Claude AI, Opus 5. [large language model] to help with formatting the pseudocode, especially with understanding object-oriented programming. 
 
-
-
-
-
-## AI Appendix 
+Justification: I feel that OOP is a useful skill and one that I am still learning about. I am trying to be ambition and learn more about classes and how they work. 
